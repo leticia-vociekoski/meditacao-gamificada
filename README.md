@@ -52,4 +52,5 @@ O app incentiva a prática contínua, melhora o foco e reduz o estresse através
 ---
 
 ## 📁 Estrutura de Arquivos
+<pre> ```text /css └── style.css /js └── app.js /img └── (ícones, badges e ilustrações) /index.html /README.md ``` </pre>
 
