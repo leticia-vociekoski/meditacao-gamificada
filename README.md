@@ -61,3 +61,7 @@ O app incentiva a prática contínua, melhora o foco e reduz o estresse através
 /index.html
 /README.md
 
+## 🌐 Demonstração Online
+
+👉 [Acesse o projeto aqui](https://leticia-vociekoski.github.io/meditacao-gamificada/)
+
